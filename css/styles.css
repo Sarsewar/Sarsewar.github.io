@@ -167,7 +167,7 @@ footer {
 .heading {
   position: relative;
   display: inline-block;
-  font-size: 2em;
+  font-size:	 2em;
   font-weight: 300;
   margin: 0 0 30px 0; }
   .heading:after {
@@ -200,7 +200,7 @@ footer {
   overflow: hidden; }
 
 #lead-content {
-  position: absolute;
+  position: absolute;	
   z-index: 10;
   top: 50%;
   left: 50%;
